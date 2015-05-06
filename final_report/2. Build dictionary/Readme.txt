@@ -1,0 +1,2 @@
+The program will read 100 000 first reviews from Yelp and generate a dictionary of most 800 popular words.
+The number of dictionary is 800 because it's estimated enough for our dekstop, if feature vector has more than 1000 dimesion, it may cause problem for training.

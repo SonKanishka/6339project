@@ -1,0 +1,2 @@
+Program will take input as a string, process to get 800 dimension feature vectors base on dictionary
+Then perform classifier on Neural Network with saved weights from 3 csv files: W1.csv, W2.csv, W3.csv
